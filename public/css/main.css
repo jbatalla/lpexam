@@ -1,0 +1,13 @@
+
+header {
+	margin-top: 60px;
+}
+
+
+
+
+
+.table-striped .row {padding: 5px 0 5px 0;}
+.table-striped>.row:nth-child(odd){
+   background-color:#f3f3f3;
+}
